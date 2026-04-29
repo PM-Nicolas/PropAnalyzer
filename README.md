@@ -23,19 +23,19 @@ PropAnalyzer combines three layers in one tool:
 ## Screenshots
 
 ### Property Information
-![Property Info](docs/screenshots/01_property_info.png)
+![Property Info](docs/screenshots/01_property_info.PNG)
 
 ### DCF Underwriting Results
-![DCF Results](docs/screenshots/02_dcf_results.png)
+![DCF Results](docs/screenshots/02_dcf_results.PNG)
 
 ### Sensitivity Analysis
-![Sensitivity Heatmap](docs/screenshots/03_sensitivity_heatmap.png)
+![Sensitivity Heatmap](docs/screenshots/03_sensitivity_heatmap.PNG)
 
 ### ESG Analysis with CRREM Stranding
-![ESG Analysis](docs/screenshots/04_esg_analysis.png)
+![ESG Analysis](docs/screenshots/04_esg_analysis.PNG)
 
 ### Adjustable Assumptions
-![Sidebar](docs/screenshots/05_assumptions_sidebar.png)
+![Sidebar](docs/screenshots/05_assumptions_sidebar.PNG)
 
 ---
 
