@@ -1,0 +1,9 @@
+streamlit
+anthropic
+pypdf
+pandas
+numpy
+numpy-financial
+python-dotenv
+matplotlib
+reportlab
